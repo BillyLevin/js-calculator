@@ -76,6 +76,7 @@ body {
   background-color: #333;
   outline: none;
   box-shadow: 0px 3px 0px #222;
+  height: 100%;
 }
 
 .clear-btn {
